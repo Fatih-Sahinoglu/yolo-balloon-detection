@@ -19,9 +19,9 @@ for educational and experimental purposes.
 - OpenCV
 - Ultralytics YOLO
 
-## 🎥 Demo
+## Demo
 
-[Demo Video](demo.mp4)
+![Balloon Detection Demo](demo.gif)
 
 
 
