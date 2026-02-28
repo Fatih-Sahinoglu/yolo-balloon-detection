@@ -19,9 +19,9 @@ for educational and experimental purposes.
 - OpenCV
 - Ultralytics YOLO
 
-## Demo
+## 🎥 Demo
 
-<video src="https://github.com/user-attachments/assets/195dbe60-bd03-4e8b-bbb5-32a1a655300d" controls width="600"></video>
+[Demo Video](demo.mp4)
 
 
 
